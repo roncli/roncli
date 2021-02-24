@@ -42,7 +42,7 @@ Projects I've made for my own use, but have the source on GitHub.
 | [ol-azure-manager](https://github.com/overload-development-community) | Complete | Manager for roncli's Overload dedicated servers on Azure. |
 | [olmod-stable-binaries](https://github.com/overload-development-community/olmod-stable-binaries) | Complete | A repository of olmod binary releases, intended for use by servers to automatically update olmod. |
 | [obs-webserver](https://github.com/roncli/obs-webserver) | Complete | My homemade node.js webserver that I sue for streaming. |
-| [tracker-log-archive](htts://github.com/overload-development-community/tracker-log-archive) | Complete | A monthly archive of logs from the Overload game tracker. |
+| [tracker-log-archive](https://github.com/overload-development-community/tracker-log-archive) | Complete | A monthly archive of logs from the Overload game tracker. |
 
 ## JavaScript Libraries
 These libraries are intended for use on the web.
