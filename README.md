@@ -71,3 +71,5 @@ I have created some node.js modules that I use for personal projects.  These are
 | [node-application-insights-logger](https://github.com/roncli/node-application-insights-logger) | A simple reusable class that can log to Azure Application Insights. |
 | [node-database](https://github.com/roncli/node-database) | A simple reusable class to query a MS SQL Server database. |
 | [node-minify](https://github.com/roncli/node-minify) | A simple library that provides combination and minification services for JavaScript and CSS files when using Express. |
+| [node-redis](https://github.com/roncli/node-redis) | A simple library to make redis calls without having to worry about connections and command syntax. |
+
