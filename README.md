@@ -23,7 +23,7 @@ I have designed and created a number of websites.
 | [six.gg](https://github.com/roncli/six.gg) | [six.gg](https://six.gg) | Released | The website and bot for Six Gaming, a community of gamers. |
 | [tis.roncli.com](https://github.com/roncli/tis.roncli.com) | [tis.roncli.com](https://tis.roncli.com) | Released | The site that allows users to search old Trax in Space 1 files. |
 
-## Application
+## Applications
 Desktop applications I've created.
 
 | Project | Status | Description |
