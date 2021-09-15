@@ -41,7 +41,7 @@ Projects I've made for my own use, but have the source on GitHub.
 | [FusionBot](https://github.com/roncli/FusionBot) | Deprecated | A Discord bot used by The Observatory to regulate matches. |
 | [ol-azure-manager](https://github.com/overload-development-community) | Complete | Manager for roncli's Overload dedicated servers on Azure. |
 | [olmod-stable-binaries](https://github.com/overload-development-community/olmod-stable-binaries) | Complete | A repository of olmod binary releases, intended for use by servers to automatically update olmod. |
-| [obs-webserver](https://github.com/roncli/obs-webserver) | Complete | My homemade node.js webserver that I sue for streaming. |
+| [obs-webserver](https://github.com/roncli/obs-webserver) | Complete | My homemade node.js webserver that I use for streaming. |
 | [tracker-log-archive](https://github.com/overload-development-community/tracker-log-archive) | Complete | A monthly archive of logs from the Overload game tracker. |
 
 ## JavaScript Libraries
