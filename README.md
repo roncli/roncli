@@ -37,7 +37,7 @@ Projects I've made for my own use, but have the source on GitHub.
 
 | Project | Status | Description |
 |---|---|---|
-| [dcltwitter](https://github.com/roncli/dcltwitter) | Complete | The Twitter bot for the Descent Champions Ladder. |
+| [dcltwitter](https://github.com/roncli/dcltwitter) | Archived | The Twitter bot for the Descent Champions Ladder.  Retired in December 2021. |
 | [FusionBot](https://github.com/roncli/FusionBot) | Deprecated | A Discord bot used by The Observatory to regulate matches. |
 | [ol-azure-manager](https://github.com/overload-development-community) | Complete | Manager for roncli's Overload dedicated servers on Azure. |
 | [olmod-stable-binaries](https://github.com/overload-development-community/olmod-stable-binaries) | Complete | A repository of olmod binary releases, intended for use by servers to automatically update olmod. |
