@@ -28,9 +28,10 @@ Desktop applications I've created.
 
 | Project | Status | Description |
 |---|---|---|
-| [ChatterGrid](https://github.com/roncli/ChatterGrid) | Complete | An application to easily create and share custom soundboards. |
-| [descentDSNclient](https://github.com/roncli/descentDSNclient) | In Progress | The client portion of the Descent Dedicated Server Network. |
-| [HyperdriveToolkit](https://github.com/roncli/HyperdriveToolkit) | In Progress | A collection of tools designed to empower streamers to easily create advanced content for their streams and better manage their community. |
+| [ChatterGrid](https://github.com/roncli/ChatterGrid) | Released | An application to easily create and share custom soundboards. |
+| [descentDSNclient](https://github.com/roncli/descentDSNclient) | In Development | The client portion of the Descent Dedicated Server Network. |
+| [HyperdriveToolkit](https://github.com/roncli/HyperdriveToolkit) | In Development | A collection of tools designed to empower streamers to easily create advanced content for their streams and better manage their community. |
+| [StreamlinkTwitchLoader](https://github.com/roncli/StreamlinkTwitchLoader) | Beta | A simple C# desktop application that will load an arbitrary number of Twitch streams into VLC using Streamlink. |
 
 ## Personal Projects
 Projects I've made for my own use, but have the source on GitHub.
@@ -39,18 +40,18 @@ Projects I've made for my own use, but have the source on GitHub.
 |---|---|---|
 | [dcltwitter](https://github.com/roncli/dcltwitter) | Archived | The Twitter bot for the Descent Champions Ladder.  Retired in December 2021. |
 | [FusionBot](https://github.com/roncli/FusionBot) | Deprecated | A Discord bot used by The Observatory to regulate matches. |
-| [ol-azure-manager](https://github.com/overload-development-community) | Complete | Manager for roncli's Overload dedicated servers on Azure. |
-| [olmod-stable-binaries](https://github.com/overload-development-community/olmod-stable-binaries) | Complete | A repository of olmod binary releases, intended for use by servers to automatically update olmod. |
-| [obs-webserver](https://github.com/roncli/obs-webserver) | Complete | My homemade node.js webserver that I use for streaming. |
-| [tracker-log-archive](https://github.com/overload-development-community/tracker-log-archive) | Complete | A monthly archive of logs from the Overload game tracker. |
+| [ol-azure-manager](https://github.com/overload-development-community) | Released | Manager for roncli's Overload dedicated servers on Azure. |
+| [olmod-stable-binaries](https://github.com/overload-development-community/olmod-stable-binaries) | Released | A repository of olmod binary releases, intended for use by servers to automatically update olmod. |
+| [obs-webserver](https://github.com/roncli/obs-webserver) | Released | My homemade node.js webserver that I use for streaming. |
+| [tracker-log-archive](https://github.com/overload-development-community/tracker-log-archive) | Released | A monthly archive of logs from the Overload game tracker. |
 
 ## JavaScript Libraries
 These libraries are intended for use on the web.
 
 | Project | Status | Description |
 |---|---|---|
-| [jquery-defaultButton](https://github.com/roncli/jquery-defaultButton) | Complete | A jQuery plugin to allow setting a default element that is sent the click event when the enter key is pushed inside of an element. |
-| [spritefont-js](https://github.com/roncli/spritefont-js) | Complete | A library that allows you to easily use a sprite sheet of characters as a font. |
+| [jquery-defaultButton](https://github.com/roncli/jquery-defaultButton) | Released | A jQuery plugin to allow setting a default element that is sent the click event when the enter key is pushed inside of an element. |
+| [spritefont-js](https://github.com/roncli/spritefont-js) | Released | A library that allows you to easily use a sprite sheet of characters as a font. |
 
 ## npm Modules
 I have authored several [npm](https://npmjs.com) modules.
