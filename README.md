@@ -1,4 +1,4 @@
-Hi, I'm roncli, a software developer from Belmont, California.  I specialize in node.js applications and websites, as well as game and modding development.
+Hi, I'm roncli, a software developer from Pittsburg, California.  I specialize in node.js applications and websites, as well as game and modding development.
 
 ## Project Contributions
 I have made major contributions to a number of open source projects.
