@@ -50,7 +50,7 @@ These libraries are intended for use on the web.
 
 | Project | Status | Description |
 |---|---|---|
-| [jquery-defaultButton](https://github.com/roncli/jquery-defaultButton) | Released | A jQuery plugin to allow setting a default element that is sent the click event when the enter key is pushed inside of an element. |
+| [jquery-default-button](https://github.com/roncli/jquery-default-button) | Released | A jQuery plugin to allow setting a default element that is sent the click event when the enter key is pushed inside of an element. |
 | [spritefont-js](https://github.com/roncli/spritefont-js) | Released | A library that allows you to easily use a sprite sheet of characters as a font. |
 
 ## npm Modules
