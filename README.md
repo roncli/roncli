@@ -40,7 +40,7 @@ Projects I've made for my own use, but have the source on GitHub.
 |---|---|---|
 | [dcltwitter](https://github.com/roncli/dcltwitter) | Archived | The Twitter bot for the Descent Champions Ladder.  Retired in December 2021. |
 | [FusionBot](https://github.com/roncli/FusionBot) | Deprecated | A Discord bot used by The Observatory to regulate matches. |
-| [ol-azure-manager](https://github.com/overload-development-community/ol-azure-manager) | Released | Manager for roncli's Overload dedicated servers on Azure. |
+| [ol-azure-manager](https://github.com/overload-development-community/ol-azure-manager) | Archived | Manager for roncli's Overload dedicated servers on Azure.  Merged into otl.gg. |
 | [olmod-stable-binaries](https://github.com/overload-development-community/olmod-stable-binaries) | Released | A repository of olmod binary releases, intended for use by servers to automatically update olmod. |
 | [obs-webserver](https://github.com/roncli/obs-webserver) | Released | My homemade node.js webserver that I use for streaming. |
 | [tracker-log-archive](https://github.com/overload-development-community/tracker-log-archive) | Released | A monthly archive of logs from the Overload game tracker. |
