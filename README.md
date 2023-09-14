@@ -17,7 +17,7 @@ I have designed and created a number of websites.
 | Project | URL | Status | Description |
 |---|---|---|---|
 | [nnn](https://github.com/roncli/nnn) | n/a | Awaiting Release | The Noita Nemesis Nation, a website for competitors of the Noita mod Noita Nemesis. |
-| [olproxy.otl.gg](https://github.com/overload-development-community/olproxy.otl.gg) | [tracker.otl.gg](https://tracker.otl.gg) | Released | An Overload game tracker for servers running olmod. |
+| [tracker.otl.gg](https://github.com/overload-development-community/tracker.otl.gg) | [tracker.otl.gg](https://tracker.otl.gg) | Released | An Overload game tracker for servers running olmod. |
 | [otl-bot](https://github.com/overload-development-community/otl-bot) | [otl.gg](https://otl.gg) | Released | The Discord bot and website used for the Overload Teams League. |
 | [roncli.com](https://github.com/roncli/roncli.com) | [roncli.com](https://roncli.com) | Released | The roncli.com website. |
 | [six.gg](https://github.com/roncli/six.gg) | [six.gg](https://six.gg) | Released | The website and bot for Six Gaming, a community of gamers. |
@@ -31,7 +31,7 @@ Desktop applications I've created.
 | [ChatterGrid](https://github.com/roncli/ChatterGrid) | Released | An application to easily create and share custom soundboards. |
 | [descentDSNclient](https://github.com/roncli/descentDSNclient) | In Development | The client portion of the Descent Dedicated Server Network. |
 | [HyperdriveToolkit](https://github.com/roncli/HyperdriveToolkit) | In Development | A collection of tools designed to empower streamers to easily create advanced content for their streams and better manage their community. |
-| [StreamlinkTwitchLoader](https://github.com/roncli/StreamlinkTwitchLoader) | Beta | A simple C# desktop application that will load an arbitrary number of Twitch streams into VLC using Streamlink. |
+| [StreamlinkTwitchLoader](https://github.com/roncli/StreamlinkTwitchLoader) | Archived | A simple C# desktop application that will load an arbitrary number of Twitch streams into VLC using Streamlink. |
 
 ## Personal Projects
 Projects I've made for my own use, but have the source on GitHub.
